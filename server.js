@@ -2399,3 +2399,6 @@ client.on("ready", () => {
 
   client.user.setActivity(`${prefix}help  |  ${client.guilds.size} Server ` , { type: "playing" });
 });
+
+
+client.login("Nzk3NTM5MTAwNTcxODYxMDQ0.X_n8Kw.t3K3X3n3HjNq6K3ATOjpj-G4O9M");//tokne bot dabne
